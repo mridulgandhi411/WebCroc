@@ -1,0 +1,141 @@
+body {
+  text-align: center;
+  font-family:"Montserrat";
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Title */
+
+.navtitle {
+  color:#fff;
+  background-color: #000;
+}
+.title-container {
+  padding:0;
+}
+.header {
+  margin-top: 35%;
+  font-family: "Sacramento";
+  font-weight: bold;
+  font-size: 4rem;
+}
+.titledown {
+  margin-top: 100px;
+}
+.header2 {
+  margin-top: 10%;
+  font-family: "Sacramento";
+  font-weight: bold;
+  font-size: 4rem;
+
+}
+.subheader {
+  line-height: 1.5;
+
+}
+#title .animate{
+  margin:0;
+}
+.animate {
+  display: inline-flex;
+
+}
+
+/* Explore */
+
+#designs {
+  margin-top: 8%;
+  margin-bottom: 5%;
+  text-align: center;
+  background-color:#ff4c68;
+}
+.carousel-item {
+  padding: 7% 15%;
+
+}
+.images {
+  width:100%;
+  border-radius: 10
+}
+.designsubheader {
+  font-size: 2.5rem;
+  font-weight: 900;
+  padding-top: 5%;
+  color:#fff;
+
+}
+.gif2 {
+  padding-top: 5%;
+}
+
+/* Pricing */
+#costs {
+  text-align:center;
+  font-weight: bold;
+  background-color: #fff;
+  margin-top: 5%;
+  padding:7% 15%;
+}
+.cards-section {
+  width:60%;
+  margin: 5% auto 5%;
+}
+
+#download {
+  text-align: center;
+  background-color: #ff4c68;
+  color:#fff;
+  padding:5% 10%;
+
+}
+
+.download-button {
+  margin:5% 2%;
+}
+
+#footer {
+  text-align: center;
+  background-color: #000;
+  color:#fff;
+  padding:5% 10%;
+  margin: 5% 0 0;
+}
+/* .heading {
+  font-size: 2.5rem;
+  animation-duration:5s;
+  animation-name:appear;
+  animation-fill-mode:forwards;
+  z-index:10;
+}
+@keyframes appear {
+  0% {
+    margin-left: 0;
+    opacity:0;
+  }
+90% {
+  color:#800080;
+  text-shadow: 2px 2px yellow ;
+  background-color: #ff4c68;
+  margin-left:520px;
+  opacity: 1;
+
+
+}
+100% {
+  margin-left:4000px;
+  opacity:0;
+}
+} */
